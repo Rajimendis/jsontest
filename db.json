@@ -1,0 +1,14 @@
+{  
+   "AuthResult":{  
+      "AuthStatus":1,
+      "TestStatus":{  
+         "ExamPossibleStatus":1,
+         "LastExamDate":"2019-11-14",
+         "NextExamDate":"2019-11-20",
+         "ExpirationDate":"2020-11-14"
+      },
+      "VoiceDataId":123456,
+      "ExamQuestionId":654321,
+      "token":"beaeb38r32n4i10jg"
+   }
+}
